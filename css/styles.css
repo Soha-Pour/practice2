@@ -1,0 +1,32 @@
+h1 {
+  color: #223D39;
+  font-family: cursive;
+}
+
+h2 {
+  color: #223D39;
+  font-style: normal;
+  font-family: fantasy;
+}
+
+p {
+  line-height: inherit;
+  font-size: 20px;
+  font-family: fantasy;
+}
+
+ol {
+  font-family: cursive;
+}
+
+ul {
+  font-family: cursive;
+}
+
+.important {
+  font-family: monospace;
+}
+
+li.important {
+  font-size: 50px;
+}
